@@ -1,0 +1,109 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1018096047901368
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4797523759858878}
+  - component: {fileID: 114899556543545740}
+  - component: {fileID: 114015486179642908}
+  - component: {fileID: 114472492595481960}
+  - component: {fileID: 114579098791021360}
+  m_Layer: 10
+  m_Name: Cannon Side Main IT
+  m_TagString: Untagged
+  m_Icon: {fileID: 8220585740371884164, guid: 0000000000000000d000000000000000, type: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4797523759858878
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1018096047901368}
+  m_LocalRotation: {x: 0, y: 0, z: 0.7071068, w: 0.7071068}
+  m_LocalPosition: {x: 2.56, y: 2.09, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 90}
+--- !u!114 &114899556543545740
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1018096047901368}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bb7049e3bcd0f68478ad0f44352cfd56, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _comment: Can be added to a COMPONENTS TO TRIGGER list
+  animatorIfFireAnim: {fileID: 0}
+  bulletPrefab: {fileID: 114243494050734698, guid: 24e1b1d4f26a9844aabcff8330d0598a,
+    type: 3}
+  delayBtwFire: 0.03
+  shootingAngle: 0
+--- !u!114 &114015486179642908
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1018096047901368}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 318e7beabcfa2844d9f8f12558773741, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _comment: Can be added to a COMPONENTS TO TRIGGER list
+  componentsToTrigger:
+  - {fileID: 114472492595481960}
+  - {fileID: 114579098791021360}
+  dontAutoDisableComponents: 1
+  duration: 3
+--- !u!114 &114472492595481960
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1018096047901368}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 90779d1840fa6c54ab2df1f85815cc8a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _comment: Can be added to a COMPONENTS TO TRIGGER list
+  spriteRenderer: {fileID: 0}
+  animator: {fileID: 0}
+  rigidbody2d: {fileID: 0}
+  collider2d: {fileID: 0}
+  otherComponentsToDeactivate:
+  - {fileID: 114899556543545740}
+--- !u!114 &114579098791021360
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1018096047901368}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 318e7beabcfa2844d9f8f12558773741, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _comment: Can be added to a COMPONENTS TO TRIGGER list
+  componentsToTrigger:
+  - {fileID: 114899556543545740}
+  - {fileID: 114015486179642908}
+  dontAutoDisableComponents: 1
+  duration: 3

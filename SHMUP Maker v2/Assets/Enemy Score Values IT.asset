@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 21bbffc0599d61b47a892fb43e0770c2, type: 3}
+  m_Name: Enemy Score Values IT
+  m_EditorClassIdentifier: 
+  enemyValues:
+  - enemy: 0
+    value: 100
+  - enemy: 1
+    value: 200
+  - enemy: 2
+    value: 300
+  - enemy: 3
+    value: 400
+  - enemy: 4
+    value: 500
+  - enemy: 5
+    value: 600
+  - enemy: 6
+    value: 700
+  - enemy: 7
+    value: 800
+  - enemy: 8
+    value: 900
+  - enemy: 9
+    value: 1000
+  - enemy: 10
+    value: 500
+  - enemy: 11
+    value: 500
