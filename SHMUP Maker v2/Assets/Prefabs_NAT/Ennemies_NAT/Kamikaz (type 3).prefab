@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _comment: Can be added to a COMPONENTS TO TRIGGER list
-  objToSpawn: {fileID: 3663309011699969042, guid: a9c55e020e017314ca662740c55d26ee,
+  objToSpawn: {fileID: 6542524972448615556, guid: 23f79332f42b4894f84aefdd5b8e3868,
     type: 3}
 --- !u!114 &-2776307984019287339
 MonoBehaviour:
@@ -28,7 +28,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _comment: Can be added to a COMPONENTS TO TRIGGER list
-  objToSpawn: {fileID: 3663309011699969042, guid: a9c55e020e017314ca662740c55d26ee,
+  objToSpawn: {fileID: 8084917812742442960, guid: 6719b1fc7295cea499afe4e9faab96ba,
     type: 3}
 --- !u!114 &3426302067067113417
 MonoBehaviour:
@@ -66,7 +66,7 @@ PrefabInstance:
         type: 3}
       propertyPath: objToSpawn
       value: 
-      objectReference: {fileID: 3663309011699969042, guid: a9c55e020e017314ca662740c55d26ee,
+      objectReference: {fileID: 750656812399633618, guid: ea3a6dd8be9f5f144833c00d027472aa,
         type: 3}
     - target: {fileID: 5606471502395946691, guid: 237f9a799b0d13341899b2db1c91dd17,
         type: 3}
