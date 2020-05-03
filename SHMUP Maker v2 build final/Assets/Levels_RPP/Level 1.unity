@@ -36641,7 +36641,7 @@ PrefabInstance:
     - target: {fileID: 114000012971975978, guid: c1982a183e6aab74199bf60585502762,
         type: 3}
       propertyPath: types.Array.size
-      value: 3
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 114000012971975978, guid: c1982a183e6aab74199bf60585502762,
         type: 3}
