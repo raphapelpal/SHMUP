@@ -137,7 +137,7 @@ MonoBehaviour:
   _comment: Can be added to a COMPONENTS TO TRIGGER list
   componentsToTrigger: []
   dontAutoDisableComponents: 1
-  defaultDamage: 5
+  defaultDamage: 10
   defaultSpeed: 20
   maxBounce: 0
   doomTimer: {fileID: 0}

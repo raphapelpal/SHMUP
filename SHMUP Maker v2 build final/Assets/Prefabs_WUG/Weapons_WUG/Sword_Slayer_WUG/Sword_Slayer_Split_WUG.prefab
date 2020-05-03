@@ -142,7 +142,7 @@ MonoBehaviour:
   - {fileID: 6523307466814654631}
   - {fileID: 7034871245660003200}
   dontAutoDisableComponents: 1
-  defaultDamage: 10
+  defaultDamage: 20
   defaultSpeed: 20
   maxBounce: 0
   doomTimer: {fileID: 2534098030090230806}
