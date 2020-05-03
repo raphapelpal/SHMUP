@@ -141,7 +141,7 @@ MonoBehaviour:
   componentsToTrigger:
   - {fileID: 3163537707864525073}
   dontAutoDisableComponents: 0
-  defaultDamage: 16
+  defaultDamage: 20
   defaultSpeed: 100
   maxBounce: 0
   doomTimer: {fileID: 0}

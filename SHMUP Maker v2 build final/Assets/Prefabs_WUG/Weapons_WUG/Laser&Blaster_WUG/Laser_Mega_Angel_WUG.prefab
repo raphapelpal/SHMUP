@@ -116,7 +116,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1094e5c52fa03894daabc4de1590d6f8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  dmgPerSec: 10
+  dmgPerSec: 20
   isStoppedByMap: 1
   isStoppedByEnemies: 0
   hitObject: {fileID: 4463725795982008}
