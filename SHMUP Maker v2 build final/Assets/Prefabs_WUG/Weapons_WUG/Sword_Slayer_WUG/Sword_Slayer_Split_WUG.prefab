@@ -80,7 +80,7 @@ SpriteRenderer:
     type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 1
-  m_FlipY: 1
+  m_FlipY: 0
   m_DrawMode: 0
   m_Size: {x: 0.5625, y: 0.125}
   m_AdaptiveModeThreshold: 0.5
@@ -142,7 +142,7 @@ MonoBehaviour:
   - {fileID: 6523307466814654631}
   - {fileID: 7034871245660003200}
   dontAutoDisableComponents: 1
-  defaultDamage: 10
+  defaultDamage: 20
   defaultSpeed: 20
   maxBounce: 0
   doomTimer: {fileID: 2534098030090230806}
