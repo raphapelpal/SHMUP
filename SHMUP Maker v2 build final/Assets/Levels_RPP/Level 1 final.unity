@@ -4095,6 +4095,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Manoeuvrable (type 1) (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 6144821936671739711, guid: cbc26429ab882084e885bdb9c0bc9b02,
+        type: 3}
+      propertyPath: damageToShip
+      value: 20
+      objectReference: {fileID: 0}
     - target: {fileID: 7719109900596877175, guid: cbc26429ab882084e885bdb9c0bc9b02,
         type: 3}
       propertyPath: speed
@@ -5258,6 +5263,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Lourd (type 1) (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 7217017446376270109, guid: 5c4a2b945988de645ade29074a45865f,
+        type: 3}
+      propertyPath: damageToShip
+      value: 20
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5c4a2b945988de645ade29074a45865f, type: 3}
 --- !u!4 &359807388 stripped
@@ -5542,7 +5552,7 @@ PrefabInstance:
     - target: {fileID: 5606471502395946688, guid: 237f9a799b0d13341899b2db1c91dd17,
         type: 3}
       propertyPath: damageToShip
-      value: 75
+      value: 60
       objectReference: {fileID: 0}
     - target: {fileID: 5606471502395946690, guid: 237f9a799b0d13341899b2db1c91dd17,
         type: 3}
@@ -6428,7 +6438,7 @@ PrefabInstance:
     - target: {fileID: 5606471502395946688, guid: 237f9a799b0d13341899b2db1c91dd17,
         type: 3}
       propertyPath: damageToShip
-      value: 75
+      value: 60
       objectReference: {fileID: 0}
     - target: {fileID: 5606471502395946690, guid: 237f9a799b0d13341899b2db1c91dd17,
         type: 3}
@@ -8002,6 +8012,11 @@ PrefabInstance:
       propertyPath: value
       value: 4
       objectReference: {fileID: 0}
+    - target: {fileID: 1256176449551629195, guid: e20076446091dcb4a97a15262e40d237,
+        type: 3}
+      propertyPath: damageToShip
+      value: 40
+      objectReference: {fileID: 0}
     - target: {fileID: 1256176449551629196, guid: e20076446091dcb4a97a15262e40d237,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -9062,6 +9077,16 @@ PrefabInstance:
       propertyPath: m_Name
       value: Manoeuvrable (type 2) (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 5723092697086711316, guid: 9329ae30b58858d44b079fc58248a072,
+        type: 3}
+      propertyPath: hitPoints
+      value: 15
+      objectReference: {fileID: 0}
+    - target: {fileID: 5723092697086711319, guid: 9329ae30b58858d44b079fc58248a072,
+        type: 3}
+      propertyPath: damageToShip
+      value: 20
+      objectReference: {fileID: 0}
     - target: {fileID: 5723092697086711323, guid: 9329ae30b58858d44b079fc58248a072,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -10030,6 +10055,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Manoeuvrable (type 1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6144821936671739711, guid: cbc26429ab882084e885bdb9c0bc9b02,
+        type: 3}
+      propertyPath: damageToShip
+      value: 20
       objectReference: {fileID: 0}
     - target: {fileID: 7719109900596877175, guid: cbc26429ab882084e885bdb9c0bc9b02,
         type: 3}
@@ -11450,6 +11480,11 @@ PrefabInstance:
       propertyPath: speed
       value: 4
       objectReference: {fileID: 0}
+    - target: {fileID: 1256176449551629195, guid: e20076446091dcb4a97a15262e40d237,
+        type: 3}
+      propertyPath: damageToShip
+      value: 40
+      objectReference: {fileID: 0}
     - target: {fileID: 1256176449551629196, guid: e20076446091dcb4a97a15262e40d237,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -11802,10 +11837,20 @@ PrefabInstance:
       propertyPath: m_LocalScale.z
       value: 1.3462399
       objectReference: {fileID: 0}
+    - target: {fileID: 1852631468058276060, guid: add56e44d65f60642b89a878f1362404,
+        type: 3}
+      propertyPath: damageToShip
+      value: 40
+      objectReference: {fileID: 0}
     - target: {fileID: 1852631468058276070, guid: add56e44d65f60642b89a878f1362404,
         type: 3}
       propertyPath: m_Name
       value: Kamikaz (type 3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1852631468058276071, guid: add56e44d65f60642b89a878f1362404,
+        type: 3}
+      propertyPath: hitPoints
+      value: 15
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: add56e44d65f60642b89a878f1362404, type: 3}
@@ -11952,6 +11997,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Manoeuvrable (type 1) (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6144821936671739711, guid: cbc26429ab882084e885bdb9c0bc9b02,
+        type: 3}
+      propertyPath: damageToShip
+      value: 20
       objectReference: {fileID: 0}
     - target: {fileID: 7719109900596877175, guid: cbc26429ab882084e885bdb9c0bc9b02,
         type: 3}
@@ -12243,6 +12293,16 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Manoeuvrable (type 2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5723092697086711316, guid: 9329ae30b58858d44b079fc58248a072,
+        type: 3}
+      propertyPath: hitPoints
+      value: 15
+      objectReference: {fileID: 0}
+    - target: {fileID: 5723092697086711319, guid: 9329ae30b58858d44b079fc58248a072,
+        type: 3}
+      propertyPath: damageToShip
+      value: 20
       objectReference: {fileID: 0}
     - target: {fileID: 5723092697086711323, guid: 9329ae30b58858d44b079fc58248a072,
         type: 3}
@@ -14659,6 +14719,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Lourd (type 1) (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 7217017446376270109, guid: 5c4a2b945988de645ade29074a45865f,
+        type: 3}
+      propertyPath: damageToShip
+      value: 20
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5c4a2b945988de645ade29074a45865f, type: 3}
 --- !u!4 &996404272 stripped
@@ -15118,6 +15183,11 @@ PrefabInstance:
       propertyPath: speed
       value: 4
       objectReference: {fileID: 0}
+    - target: {fileID: 1256176449551629195, guid: e20076446091dcb4a97a15262e40d237,
+        type: 3}
+      propertyPath: damageToShip
+      value: 40
+      objectReference: {fileID: 0}
     - target: {fileID: 1256176449551629196, guid: e20076446091dcb4a97a15262e40d237,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -15408,6 +15478,11 @@ PrefabInstance:
         type: 3}
       propertyPath: value
       value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 1256176449551629195, guid: e20076446091dcb4a97a15262e40d237,
+        type: 3}
+      propertyPath: damageToShip
+      value: 40
       objectReference: {fileID: 0}
     - target: {fileID: 1256176449551629196, guid: e20076446091dcb4a97a15262e40d237,
         type: 3}
@@ -16187,6 +16262,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Manoeuvrable (type 1) (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6144821936671739711, guid: cbc26429ab882084e885bdb9c0bc9b02,
+        type: 3}
+      propertyPath: damageToShip
+      value: 20
       objectReference: {fileID: 0}
     - target: {fileID: 7719109900596877175, guid: cbc26429ab882084e885bdb9c0bc9b02,
         type: 3}
@@ -18488,6 +18568,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Lourd (type 1) (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 7217017446376270109, guid: 5c4a2b945988de645ade29074a45865f,
+        type: 3}
+      propertyPath: damageToShip
+      value: 20
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5c4a2b945988de645ade29074a45865f, type: 3}
 --- !u!4 &1218677568 stripped
@@ -18938,6 +19023,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1738645977}
     m_Modifications:
+    - target: {fileID: 5606471502395946688, guid: 237f9a799b0d13341899b2db1c91dd17,
+        type: 3}
+      propertyPath: damageToShip
+      value: 50
+      objectReference: {fileID: 0}
     - target: {fileID: 5606471502395946695, guid: 237f9a799b0d13341899b2db1c91dd17,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -19626,6 +19716,11 @@ PrefabInstance:
         type: 3}
       propertyPath: speed
       value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 1256176449551629195, guid: e20076446091dcb4a97a15262e40d237,
+        type: 3}
+      propertyPath: damageToShip
+      value: 40
       objectReference: {fileID: 0}
     - target: {fileID: 1256176449551629196, guid: e20076446091dcb4a97a15262e40d237,
         type: 3}
@@ -21989,6 +22084,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Manoeuvrable (type 1) (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6144821936671739711, guid: cbc26429ab882084e885bdb9c0bc9b02,
+        type: 3}
+      propertyPath: damageToShip
+      value: 20
       objectReference: {fileID: 0}
     - target: {fileID: 7719109900596877175, guid: cbc26429ab882084e885bdb9c0bc9b02,
         type: 3}
@@ -25853,6 +25953,11 @@ PrefabInstance:
       propertyPath: speed
       value: 4
       objectReference: {fileID: 0}
+    - target: {fileID: 1256176449551629195, guid: e20076446091dcb4a97a15262e40d237,
+        type: 3}
+      propertyPath: damageToShip
+      value: 40
+      objectReference: {fileID: 0}
     - target: {fileID: 1256176449551629196, guid: e20076446091dcb4a97a15262e40d237,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -27658,6 +27763,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Lourd (type 1) (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7217017446376270109, guid: 5c4a2b945988de645ade29074a45865f,
+        type: 3}
+      propertyPath: damageToShip
+      value: 20
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5c4a2b945988de645ade29074a45865f, type: 3}
@@ -32334,6 +32444,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Lourd (type 1)
       objectReference: {fileID: 0}
+    - target: {fileID: 7217017446376270109, guid: 5c4a2b945988de645ade29074a45865f,
+        type: 3}
+      propertyPath: damageToShip
+      value: 20
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5c4a2b945988de645ade29074a45865f, type: 3}
 --- !u!1 &2001179331
@@ -34361,6 +34476,11 @@ PrefabInstance:
         type: 3}
       propertyPath: value
       value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 1256176449551629195, guid: e20076446091dcb4a97a15262e40d237,
+        type: 3}
+      propertyPath: damageToShip
+      value: 40
       objectReference: {fileID: 0}
     - target: {fileID: 1256176449551629196, guid: e20076446091dcb4a97a15262e40d237,
         type: 3}
