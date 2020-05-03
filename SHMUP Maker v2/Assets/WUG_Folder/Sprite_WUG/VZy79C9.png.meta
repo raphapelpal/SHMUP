@@ -1,0 +1,1460 @@
+fileFormatVersion: 2
+guid: 4d204ec3934f104459d105cd9a7d1771
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5552365493990205905
+    second: VZy79C9_0
+  - first:
+      213: 5451332889684173294
+    second: VZy79C9_1
+  - first:
+      213: -2252580145865522786
+    second: VZy79C9_2
+  - first:
+      213: -8645246899211967925
+    second: VZy79C9_3
+  - first:
+      213: -3017681192610286110
+    second: VZy79C9_4
+  - first:
+      213: 8953847154862251751
+    second: VZy79C9_5
+  - first:
+      213: 310859971288099698
+    second: VZy79C9_6
+  - first:
+      213: 5309844588426006951
+    second: VZy79C9_7
+  - first:
+      213: -3392554440731352446
+    second: VZy79C9_8
+  - first:
+      213: -2134840031691899696
+    second: VZy79C9_9
+  - first:
+      213: 2565777388286102698
+    second: VZy79C9_10
+  - first:
+      213: -4878528681500426232
+    second: VZy79C9_11
+  - first:
+      213: -3313387111238072477
+    second: VZy79C9_12
+  - first:
+      213: -5091992469367911053
+    second: VZy79C9_13
+  - first:
+      213: -8826977972688845718
+    second: VZy79C9_14
+  - first:
+      213: 6829906254211166461
+    second: VZy79C9_15
+  - first:
+      213: -2786969991171137747
+    second: VZy79C9_16
+  - first:
+      213: -3957058763627094090
+    second: VZy79C9_17
+  - first:
+      213: -7534327048984380525
+    second: VZy79C9_18
+  - first:
+      213: -5223027248593606477
+    second: VZy79C9_19
+  - first:
+      213: -4542588409747082625
+    second: VZy79C9_20
+  - first:
+      213: -7157464790500303508
+    second: VZy79C9_21
+  - first:
+      213: 2863006041603497315
+    second: VZy79C9_22
+  - first:
+      213: 4546163859994433601
+    second: VZy79C9_23
+  - first:
+      213: 1049565426349692480
+    second: VZy79C9_24
+  - first:
+      213: -6178377584211793578
+    second: VZy79C9_25
+  - first:
+      213: 2498432805386381144
+    second: VZy79C9_26
+  - first:
+      213: -5360616849354371123
+    second: VZy79C9_27
+  - first:
+      213: -3162140618777110982
+    second: VZy79C9_28
+  - first:
+      213: 6055050270793802177
+    second: VZy79C9_29
+  - first:
+      213: -2492130209680135400
+    second: VZy79C9_30
+  - first:
+      213: -7625764341474186744
+    second: VZy79C9_31
+  - first:
+      213: -5004427797614564096
+    second: VZy79C9_32
+  - first:
+      213: 1593135737312542510
+    second: VZy79C9_33
+  - first:
+      213: -8786593371079350294
+    second: VZy79C9_34
+  - first:
+      213: -8373862047495700530
+    second: VZy79C9_35
+  - first:
+      213: -3378844407021248333
+    second: VZy79C9_36
+  - first:
+      213: 5896814362622182195
+    second: VZy79C9_37
+  - first:
+      213: 5346517762668074917
+    second: VZy79C9_38
+  - first:
+      213: -5339660945144317658
+    second: VZy79C9_39
+  - first:
+      213: 7918033792845850409
+    second: VZy79C9_40
+  - first:
+      213: 2758686092604575432
+    second: VZy79C9_41
+  - first:
+      213: -6595010617305454857
+    second: VZy79C9_42
+  - first:
+      213: -7860106506540863268
+    second: VZy79C9_43
+  - first:
+      213: 8746272064089166745
+    second: VZy79C9_44
+  - first:
+      213: 826861106907639265
+    second: VZy79C9_45
+  - first:
+      213: -8579171179602795063
+    second: VZy79C9_46
+  - first:
+      213: -2353931363720444880
+    second: VZy79C9_47
+  - first:
+      213: -99204033461040626
+    second: VZy79C9_48
+  - first:
+      213: -4033749595842735046
+    second: VZy79C9_49
+  - first:
+      213: 315434152797382885
+    second: VZy79C9_50
+  - first:
+      213: -7280583727485768101
+    second: VZy79C9_51
+  - first:
+      213: -1815341491989284645
+    second: VZy79C9_52
+  - first:
+      213: -5946001892797743986
+    second: VZy79C9_53
+  - first:
+      213: -1273312379425290207
+    second: VZy79C9_54
+  - first:
+      213: -5242330647008030454
+    second: VZy79C9_55
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VZy79C9_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 86.666664
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d92c64cff6fd0d40800000000000000
+      internalID: 5552365493990205905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VZy79C9_1
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 576
+        width: 86.666664
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee1670a716607ab40800000000000000
+      internalID: 5451332889684173294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VZy79C9_2
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 576
+        width: 86.666664
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e918691ca4a3db0e0800000000000000
+      internalID: -2252580145865522786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VZy79C9_3
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 576
+        width: 86.666664
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b426ce8efb9e50880800000000000000
+      internalID: -8645246899211967925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VZy79C9_4
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 576
+        width: 86.666664
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e5361591fa0f16d0800000000000000
+      internalID: -3017681192610286110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VZy79C9_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 86.666664
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eed4be3c84724c70800000000000000
+      internalID: 8953847154862251751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VZy79C9_6
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 512
+        width: 86.666664
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27be3833f75605400800000000000000
+      internalID: 310859971288099698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VZy79C9_7
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 512
+        width: 86.666664
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a199a9358b50b940800000000000000
+      internalID: 5309844588426006951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VZy79C9_8
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 546
+        width: 111
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 282a80fe5b93be0d0800000000000000
+      internalID: -3392554440731352446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VZy79C9_9
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 512
+        width: 86.666664
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dc78b25d468f52e0800000000000000
+      internalID: -2134840031691899696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VZy79C9_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 86.666664
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aacc589c0f87b9320800000000000000
+      internalID: 2565777388286102698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VZy79C9_11
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 448
+        width: 86.666664
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 800cc90030cfb4cb0800000000000000
+      internalID: -4878528681500426232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VZy79C9_12
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 448
+        width: 86.666664
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3670c473afb7402d0800000000000000
+      internalID: -3313387111238072477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VZy79C9_13
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 448
+        width: 86.666664
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37d8c50e3db9559b0800000000000000
+      internalID: -5091992469367911053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VZy79C9_14
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 448
+        width: 86.666664
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a640fa91d46408580800000000000000
+      internalID: -8826977972688845718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VZy79C9_15
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 448
+        width: 86.666664
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df0b9734d83b8ce50800000000000000
+      internalID: 6829906254211166461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VZy79C9_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 86.666664
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2f129c1f81b259d0800000000000000
+      internalID: -2786969991171137747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VZy79C9_17
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 384
+        width: 86.666664
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bf19a61504b519c0800000000000000
+      internalID: -3957058763627094090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VZy79C9_18
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 384
+        width: 86.666664
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39b3bafa771b07790800000000000000
+      internalID: -7534327048984380525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VZy79C9_19
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 418
+        width: 115
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b86463e3641487b0800000000000000
+      internalID: -5223027248593606477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VZy79C9_20
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 384
+        width: 86.666664
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f72f734b8eb75f0c0800000000000000
+      internalID: -4542588409747082625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VZy79C9_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 86.666664
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6d1dd5e1b39bac90800000000000000
+      internalID: -7157464790500303508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VZy79C9_22
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 320
+        width: 86.666664
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36dd29373d07bb720800000000000000
+      internalID: 2863006041603497315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VZy79C9_23
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 320
+        width: 86.666664
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 148dfada1f7371f30800000000000000
+      internalID: 4546163859994433601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VZy79C9_24
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 320
+        width: 86.666664
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 046da16c13ec09e00800000000000000
+      internalID: 1049565426349692480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VZy79C9_25
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 320
+        width: 86.666664
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 659e1d4525ef14aa0800000000000000
+      internalID: -6178377584211793578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VZy79C9_26
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 320
+        width: 86.666664
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 857ec3436673ca220800000000000000
+      internalID: 2498432805386381144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VZy79C9_27
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 256
+        width: 86.666664
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcf424590634b95b0800000000000000
+      internalID: -5360616849354371123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VZy79C9_28
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 256
+        width: 86.666664
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a36d4f76cd1dd14d0800000000000000
+      internalID: -3162140618777110982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VZy79C9_29
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 256
+        width: 86.666664
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c12cc7e32cd70450800000000000000
+      internalID: 6055050270793802177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VZy79C9_30
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 256
+        width: 86.666664
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81beef537cc2a6dd0800000000000000
+      internalID: -2492130209680135400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VZy79C9_31
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 256
+        width: 86.666664
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80a27950cb7db2690800000000000000
+      internalID: -7625764341474186744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VZy79C9_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 86.666664
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00de713ce63bc8ab0800000000000000
+      internalID: -5004427797614564096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VZy79C9_33
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 192
+        width: 86.666664
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2f7e752384fb1610800000000000000
+      internalID: 1593135737312542510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VZy79C9_34
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 192
+        width: 86.666664
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae76303e1efbf0680800000000000000
+      internalID: -8786593371079350294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VZy79C9_35
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 192
+        width: 86.666664
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecfb4ec95d01acb80800000000000000
+      internalID: -8373862047495700530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VZy79C9_36
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 192
+        width: 86.666664
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b0ee28e9eeeb11d0800000000000000
+      internalID: -3378844407021248333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VZy79C9_37
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 192
+        width: 86.666664
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 333448e8b61b5d150800000000000000
+      internalID: 5896814362622182195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VZy79C9_38
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 86.666664
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a7952df395a23a40800000000000000
+      internalID: 5346517762668074917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VZy79C9_39
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 128
+        width: 86.666664
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62975af39a6b5e5b0800000000000000
+      internalID: -5339660945144317658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VZy79C9_40
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 128
+        width: 86.666664
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 927ad1678c182ed60800000000000000
+      internalID: 7918033792845850409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VZy79C9_41
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 128
+        width: 86.666664
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ce81849262d84620800000000000000
+      internalID: 2758686092604575432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VZy79C9_42
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 128
+        width: 86.666664
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f6249119c0d974a0800000000000000
+      internalID: -6595010617305454857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VZy79C9_43
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 128
+        width: 86.666664
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd035e4e6ca4be290800000000000000
+      internalID: -7860106506540863268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VZy79C9_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 86.666664
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99315f04a10016970800000000000000
+      internalID: 8746272064089166745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VZy79C9_45
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 64
+        width: 86.666664
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ede0dbbbc9997b00800000000000000
+      internalID: 826861106907639265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VZy79C9_46
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 64
+        width: 86.666664
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c5a18c3449a0f880800000000000000
+      internalID: -8579171179602795063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VZy79C9_47
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 64
+        width: 86.666664
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 034cac775e7255fd0800000000000000
+      internalID: -2353931363720444880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VZy79C9_48
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 64
+        width: 86.666664
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0ac449057e8f9ef0800000000000000
+      internalID: -99204033461040626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VZy79C9_49
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 64
+        width: 86.666664
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a341be24d1e3508c0800000000000000
+      internalID: -4033749595842735046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VZy79C9_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 86.666664
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e8a383d0b5a06400800000000000000
+      internalID: 315434152797382885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VZy79C9_51
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 0
+        width: 86.666664
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5ea8bd8cab26fa90800000000000000
+      internalID: -7280583727485768101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VZy79C9_52
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 0
+        width: 86.666664
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd873f7f78c9ec6e0800000000000000
+      internalID: -1815341491989284645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VZy79C9_53
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 0
+        width: 86.666664
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8c7df128ce8b7da0800000000000000
+      internalID: -5946001892797743986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VZy79C9_54
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 0
+        width: 86.666664
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1288f302329445ee0800000000000000
+      internalID: -1273312379425290207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VZy79C9_55
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 0
+        width: 86.666664
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0151f53d008f37b0800000000000000
+      internalID: -5242330647008030454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
