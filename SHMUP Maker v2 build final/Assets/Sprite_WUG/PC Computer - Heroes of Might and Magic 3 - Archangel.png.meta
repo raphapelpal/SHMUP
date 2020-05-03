@@ -1,0 +1,1412 @@
+fileFormatVersion: 2
+guid: dd7f8ec71ff0e0f4f8facec6b99ee1ff
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3686459306516173505
+    second: PC Computer - Heroes of Might and Magic 3 - Archangel_0
+  - first:
+      213: -1210136316638162322
+    second: PC Computer - Heroes of Might and Magic 3 - Archangel_1
+  - first:
+      213: 7157620716607221257
+    second: PC Computer - Heroes of Might and Magic 3 - Archangel_2
+  - first:
+      213: 2536774426568871654
+    second: PC Computer - Heroes of Might and Magic 3 - Archangel_3
+  - first:
+      213: -1449701407044271815
+    second: PC Computer - Heroes of Might and Magic 3 - Archangel_4
+  - first:
+      213: -8100606667994006301
+    second: PC Computer - Heroes of Might and Magic 3 - Archangel_5
+  - first:
+      213: -9196533175198605545
+    second: PC Computer - Heroes of Might and Magic 3 - Archangel_6
+  - first:
+      213: 6784216629669843621
+    second: PC Computer - Heroes of Might and Magic 3 - Archangel_7
+  - first:
+      213: -5874525611166552825
+    second: PC Computer - Heroes of Might and Magic 3 - Archangel_8
+  - first:
+      213: -3988518913606810879
+    second: PC Computer - Heroes of Might and Magic 3 - Archangel_9
+  - first:
+      213: -7527074894916876099
+    second: PC Computer - Heroes of Might and Magic 3 - Archangel_10
+  - first:
+      213: 9097980715590481057
+    second: PC Computer - Heroes of Might and Magic 3 - Archangel_11
+  - first:
+      213: 9112656950796197925
+    second: PC Computer - Heroes of Might and Magic 3 - Archangel_12
+  - first:
+      213: 2909108941712599544
+    second: PC Computer - Heroes of Might and Magic 3 - Archangel_13
+  - first:
+      213: 3136686598439376042
+    second: PC Computer - Heroes of Might and Magic 3 - Archangel_14
+  - first:
+      213: 8778273246360112561
+    second: PC Computer - Heroes of Might and Magic 3 - Archangel_15
+  - first:
+      213: -7368745395131881544
+    second: PC Computer - Heroes of Might and Magic 3 - Archangel_16
+  - first:
+      213: 227378041623937821
+    second: PC Computer - Heroes of Might and Magic 3 - Archangel_17
+  - first:
+      213: 8786104515764067834
+    second: PC Computer - Heroes of Might and Magic 3 - Archangel_18
+  - first:
+      213: -3853376601404585510
+    second: PC Computer - Heroes of Might and Magic 3 - Archangel_19
+  - first:
+      213: 8362520040241707153
+    second: PC Computer - Heroes of Might and Magic 3 - Archangel_20
+  - first:
+      213: -77310560728991434
+    second: PC Computer - Heroes of Might and Magic 3 - Archangel_21
+  - first:
+      213: -5570174525707408770
+    second: PC Computer - Heroes of Might and Magic 3 - Archangel_22
+  - first:
+      213: -4734478782021227579
+    second: PC Computer - Heroes of Might and Magic 3 - Archangel_23
+  - first:
+      213: 5567520962767019618
+    second: PC Computer - Heroes of Might and Magic 3 - Archangel_24
+  - first:
+      213: 2058246649173757365
+    second: PC Computer - Heroes of Might and Magic 3 - Archangel_25
+  - first:
+      213: 2634557411079229607
+    second: PC Computer - Heroes of Might and Magic 3 - Archangel_26
+  - first:
+      213: 3217677821475868882
+    second: PC Computer - Heroes of Might and Magic 3 - Archangel_27
+  - first:
+      213: 3837075136073444723
+    second: PC Computer - Heroes of Might and Magic 3 - Archangel_28
+  - first:
+      213: 1754071111521777529
+    second: PC Computer - Heroes of Might and Magic 3 - Archangel_29
+  - first:
+      213: 5312778688121209654
+    second: PC Computer - Heroes of Might and Magic 3 - Archangel_30
+  - first:
+      213: 6594410839146690330
+    second: PC Computer - Heroes of Might and Magic 3 - Archangel_31
+  - first:
+      213: -9136231536243823697
+    second: PC Computer - Heroes of Might and Magic 3 - Archangel_32
+  - first:
+      213: 2819725184456888886
+    second: PC Computer - Heroes of Might and Magic 3 - Archangel_33
+  - first:
+      213: 4660788201944499702
+    second: PC Computer - Heroes of Might and Magic 3 - Archangel_34
+  - first:
+      213: 655654989115891091
+    second: PC Computer - Heroes of Might and Magic 3 - Archangel_35
+  - first:
+      213: -5935484383466085088
+    second: PC Computer - Heroes of Might and Magic 3 - Archangel_36
+  - first:
+      213: 3414313520405909099
+    second: PC Computer - Heroes of Might and Magic 3 - Archangel_37
+  - first:
+      213: 5269338285768910771
+    second: PC Computer - Heroes of Might and Magic 3 - Archangel_38
+  - first:
+      213: -1721744511501790324
+    second: PC Computer - Heroes of Might and Magic 3 - Archangel_39
+  - first:
+      213: -6470132656027215722
+    second: PC Computer - Heroes of Might and Magic 3 - Archangel_40
+  - first:
+      213: -3773851511426461840
+    second: PC Computer - Heroes of Might and Magic 3 - Archangel_41
+  - first:
+      213: -5094828914486457051
+    second: PC Computer - Heroes of Might and Magic 3 - Archangel_42
+  - first:
+      213: -1094802223129727281
+    second: PC Computer - Heroes of Might and Magic 3 - Archangel_43
+  - first:
+      213: 6540486477416564935
+    second: PC Computer - Heroes of Might and Magic 3 - Archangel_44
+  - first:
+      213: -8673845302045561325
+    second: PC Computer - Heroes of Might and Magic 3 - Archangel_45
+  - first:
+      213: -1129710275729737586
+    second: PC Computer - Heroes of Might and Magic 3 - Archangel_46
+  - first:
+      213: -5015604307170806880
+    second: PC Computer - Heroes of Might and Magic 3 - Archangel_47
+  - first:
+      213: 1955883303618659595
+    second: PC Computer - Heroes of Might and Magic 3 - Archangel_48
+  - first:
+      213: 7669486137733092155
+    second: PC Computer - Heroes of Might and Magic 3 - Archangel_49
+  - first:
+      213: 7470320605576801778
+    second: PC Computer - Heroes of Might and Magic 3 - Archangel_50
+  - first:
+      213: -198805085694720500
+    second: PC Computer - Heroes of Might and Magic 3 - Archangel_51
+  - first:
+      213: 670759902171669928
+    second: PC Computer - Heroes of Might and Magic 3 - Archangel_52
+  - first:
+      213: -2697391171285142849
+    second: PC Computer - Heroes of Might and Magic 3 - Archangel_53
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Archangel_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1323
+        width: 117
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c254d3253fe82330800000000000000
+      internalID: 3686459306516173505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Archangel_1
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 1323
+        width: 110
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e629bfc7e6bb43fe0800000000000000
+      internalID: -1210136316638162322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Archangel_2
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 1323
+        width: 87
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90ea95a7e1af45360800000000000000
+      internalID: 7157620716607221257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Archangel_3
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 1323
+        width: 90
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eeceea86ee643320800000000000000
+      internalID: 2536774426568871654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Archangel_4
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 1323
+        width: 109
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9310eba4040a1ebe0800000000000000
+      internalID: -1449701407044271815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Archangel_5
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 1323
+        width: 103
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ec7e01872dd49f80800000000000000
+      internalID: -8100606667994006301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Archangel_6
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 1158
+        width: 131
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71f113f6dc95f5080800000000000000
+      internalID: -9196533175198605545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Archangel_7
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 1177
+        width: 114
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a2d4c29411662e50800000000000000
+      internalID: 6784216629669843621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Archangel_8
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 1182
+        width: 128
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70dab7ac41e797ea0800000000000000
+      internalID: -5874525611166552825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Archangel_9
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 1176
+        width: 159
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1030a8e1e2fe5a8c0800000000000000
+      internalID: -3988518913606810879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Archangel_10
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 1170
+        width: 159
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db808b263457a8790800000000000000
+      internalID: -7527074894916876099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Archangel_11
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 1164
+        width: 159
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a4ff16f145824e70800000000000000
+      internalID: 9097980715590481057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Archangel_12
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1016
+        width: 159
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 520a3304739a67e70800000000000000
+      internalID: 9112656950796197925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Archangel_13
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 1025
+        width: 132
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f921bb5b2b3f5820800000000000000
+      internalID: 2909108941712599544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Archangel_14
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 1021
+        width: 140
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa415b7a7dfb78b20800000000000000
+      internalID: 3136686598439376042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Archangel_15
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 1025
+        width: 141
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bd0c9e1201b2d970800000000000000
+      internalID: 8778273246360112561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Archangel_16
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 1023
+        width: 139
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b76edaba15fcb990800000000000000
+      internalID: -7368745395131881544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Archangel_17
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 1019
+        width: 140
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1308b8cf1fc72300800000000000000
+      internalID: 227378041623937821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Archangel_18
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 859
+        width: 159
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afd929d91838ee970800000000000000
+      internalID: 8786104515764067834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Archangel_19
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 881
+        width: 124
+        height: 155
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad94a77a56e068ac0800000000000000
+      internalID: -3853376601404585510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Archangel_20
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 872
+        width: 120
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19831b98ba3ad0470800000000000000
+      internalID: 8362520040241707153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Archangel_21
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 870
+        width: 128
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 639bc5264765deef0800000000000000
+      internalID: -77310560728991434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Archangel_22
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 870
+        width: 121
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7aa74ae7c3c2b2b0800000000000000
+      internalID: -5570174525707408770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Archangel_23
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 873
+        width: 159
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cb2001d1a0cb4eb0800000000000000
+      internalID: -4734478782021227579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Archangel_24
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 675
+        width: 159
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26ed44151dec34d40800000000000000
+      internalID: 5567520962767019618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Archangel_25
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 697
+        width: 159
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bdc3202c6c509c10800000000000000
+      internalID: 2058246649173757365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Archangel_26
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 703
+        width: 159
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a010c3c104df8420800000000000000
+      internalID: 2634557411079229607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Archangel_27
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 700
+        width: 159
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d0d8be3eec77ac20800000000000000
+      internalID: 3217677821475868882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Archangel_28
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 694
+        width: 120
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37d242ea187004530800000000000000
+      internalID: 3837075136073444723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Archangel_29
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 695
+        width: 159
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 977b709e166b75810800000000000000
+      internalID: 1754071111521777529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Archangel_30
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 514
+        width: 159
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6330bbb8118cab940800000000000000
+      internalID: 5312778688121209654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Archangel_31
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 520
+        width: 159
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a17f25238bd048b50800000000000000
+      internalID: 6594410839146690330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Archangel_32
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 527
+        width: 159
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fab2778d2d5953180800000000000000
+      internalID: -9136231536243823697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Archangel_33
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 521
+        width: 152
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63296cf9d1da12720800000000000000
+      internalID: 2819725184456888886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Archangel_34
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 534
+        width: 113
+        height: 165
+      alignment: 9
+      pivot: {x: 0.5309277, y: 0.67883694}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f5cb3efc227ea040800000000000000
+      internalID: 4660788201944499702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Archangel_35
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 521
+        width: 159
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39d17712dba591900800000000000000
+      internalID: 655654989115891091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Archangel_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 352
+        width: 111
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02520a9966ce0ada0800000000000000
+      internalID: -5935484383466085088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Archangel_37
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 349
+        width: 108
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6e8b979e04126f20800000000000000
+      internalID: 3414313520405909099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Archangel_38
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 348
+        width: 118
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b72f94b043702940800000000000000
+      internalID: 5269338285768910771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Archangel_39
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 360
+        width: 159
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8315fd2d722b18e0800000000000000
+      internalID: -1721744511501790324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Archangel_40
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 346
+        width: 159
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 698d7db21a87536a0800000000000000
+      internalID: -6470132656027215722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Archangel_41
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 353
+        width: 159
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07fca5a8b0690abc0800000000000000
+      internalID: -3773851511426461840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Archangel_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 222
+        width: 142
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52d45a888188b49b0800000000000000
+      internalID: -5094828914486457051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Archangel_43
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 245
+        width: 151
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fce6b07bd2b7ec0f0800000000000000
+      internalID: -1094802223129727281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Archangel_44
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 204
+        width: 136
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c809a85cc974ca50800000000000000
+      internalID: 6540486477416564935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Archangel_45
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 202
+        width: 124
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31e22ee57af40a780800000000000000
+      internalID: -8673845302045561325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Archangel_46
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 199
+        width: 111
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e88350c5d767250f0800000000000000
+      internalID: -1129710275729737586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Archangel_47
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 235
+        width: 100
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a33a29d47ef46ab0800000000000000
+      internalID: -5015604307170806880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Archangel_48
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 76
+        width: 146
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b05ce4e7081b42b10800000000000000
+      internalID: 1955883303618659595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Archangel_49
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 68
+        width: 138
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b331d51f10d7f6a60800000000000000
+      internalID: 7669486137733092155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Archangel_50
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 44
+        width: 168
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fdafa5e209eba760800000000000000
+      internalID: 7470320605576801778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Archangel_51
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 84
+        width: 124
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0600afe3d3bd3df0800000000000000
+      internalID: -198805085694720500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Archangel_52
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 2.6666718
+        width: 159.33333
+        height: 165.33333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a5a482c3940f4900800000000000000
+      internalID: 670759902171669928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Archangel_53
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 235
+        width: 104
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb236476501f09ad0800000000000000
+      internalID: -2697391171285142849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,4220 @@
+fileFormatVersion: 2
+guid: 659701d8baf53d246999d7d3406fc73c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4025446448617776731
+    second: PlayStation - Gradius Gaiden - Vic Viper_0
+  - first:
+      213: -7424216308106183420
+    second: PlayStation - Gradius Gaiden - Vic Viper_1
+  - first:
+      213: 6599732561317811736
+    second: PlayStation - Gradius Gaiden - Vic Viper_2
+  - first:
+      213: -944173029051294640
+    second: PlayStation - Gradius Gaiden - Vic Viper_3
+  - first:
+      213: -775380049293036811
+    second: PlayStation - Gradius Gaiden - Vic Viper_4
+  - first:
+      213: -7208207461941377318
+    second: PlayStation - Gradius Gaiden - Vic Viper_5
+  - first:
+      213: 8279412755273666582
+    second: PlayStation - Gradius Gaiden - Vic Viper_6
+  - first:
+      213: 8130542911981048903
+    second: PlayStation - Gradius Gaiden - Vic Viper_7
+  - first:
+      213: 3503222096727938524
+    second: PlayStation - Gradius Gaiden - Vic Viper_8
+  - first:
+      213: 2928238430294506042
+    second: PlayStation - Gradius Gaiden - Vic Viper_9
+  - first:
+      213: -3001616127931325973
+    second: PlayStation - Gradius Gaiden - Vic Viper_10
+  - first:
+      213: 4008710170499270035
+    second: PlayStation - Gradius Gaiden - Vic Viper_11
+  - first:
+      213: -107165765833784425
+    second: PlayStation - Gradius Gaiden - Vic Viper_12
+  - first:
+      213: -511542869227441128
+    second: PlayStation - Gradius Gaiden - Vic Viper_13
+  - first:
+      213: 2393767767873594906
+    second: PlayStation - Gradius Gaiden - Vic Viper_14
+  - first:
+      213: 7213327826335004720
+    second: PlayStation - Gradius Gaiden - Vic Viper_15
+  - first:
+      213: 6688984893948914614
+    second: PlayStation - Gradius Gaiden - Vic Viper_16
+  - first:
+      213: 1840512069092021772
+    second: PlayStation - Gradius Gaiden - Vic Viper_17
+  - first:
+      213: 6329708327664034263
+    second: PlayStation - Gradius Gaiden - Vic Viper_18
+  - first:
+      213: 4389638309914578166
+    second: PlayStation - Gradius Gaiden - Vic Viper_19
+  - first:
+      213: -2451044771301313244
+    second: PlayStation - Gradius Gaiden - Vic Viper_20
+  - first:
+      213: -1121547403858961379
+    second: PlayStation - Gradius Gaiden - Vic Viper_21
+  - first:
+      213: -8189003935130600263
+    second: PlayStation - Gradius Gaiden - Vic Viper_22
+  - first:
+      213: 745036154770965974
+    second: PlayStation - Gradius Gaiden - Vic Viper_23
+  - first:
+      213: -5956661953262694192
+    second: PlayStation - Gradius Gaiden - Vic Viper_24
+  - first:
+      213: -5766912063364964309
+    second: PlayStation - Gradius Gaiden - Vic Viper_25
+  - first:
+      213: 1738987822327372630
+    second: PlayStation - Gradius Gaiden - Vic Viper_26
+  - first:
+      213: 3133987898697170296
+    second: PlayStation - Gradius Gaiden - Vic Viper_27
+  - first:
+      213: -1135005245585149536
+    second: PlayStation - Gradius Gaiden - Vic Viper_28
+  - first:
+      213: 6133845575045641607
+    second: PlayStation - Gradius Gaiden - Vic Viper_29
+  - first:
+      213: 4328015906682020000
+    second: Gradius Gaiden - Laser IT
+  - first:
+      213: 3878505581664807381
+    second: PlayStation - Gradius Gaiden - Vic Viper_31
+  - first:
+      213: -4398038809458962844
+    second: PlayStation - Gradius Gaiden - Vic Viper_32
+  - first:
+      213: 4402288861891670869
+    second: PlayStation - Gradius Gaiden - Vic Viper_33
+  - first:
+      213: -5151045950386715868
+    second: PlayStation - Gradius Gaiden - Vic Viper_34
+  - first:
+      213: -2184420922344231344
+    second: PlayStation - Gradius Gaiden - Vic Viper_35
+  - first:
+      213: -4870617322757642778
+    second: PlayStation - Gradius Gaiden - Vic Viper_36
+  - first:
+      213: 3417321684192504637
+    second: PlayStation - Gradius Gaiden - Vic Viper_37
+  - first:
+      213: 4901103141466799885
+    second: PlayStation - Gradius Gaiden - Vic Viper_38
+  - first:
+      213: -8380730990668107488
+    second: PlayStation - Gradius Gaiden - Vic Viper_39
+  - first:
+      213: -5451631919162166275
+    second: PlayStation - Gradius Gaiden - Vic Viper_40
+  - first:
+      213: 1877992456846462506
+    second: PlayStation - Gradius Gaiden - Vic Viper_41
+  - first:
+      213: -3340528690166500698
+    second: PlayStation - Gradius Gaiden - Vic Viper_42
+  - first:
+      213: -2036057311035904812
+    second: PlayStation - Gradius Gaiden - Vic Viper_43
+  - first:
+      213: -6846064348373735907
+    second: PlayStation - Gradius Gaiden - Vic Viper_44
+  - first:
+      213: 6216223845444015586
+    second: PlayStation - Gradius Gaiden - Vic Viper_45
+  - first:
+      213: -2515501214257398560
+    second: PlayStation - Gradius Gaiden - Vic Viper_46
+  - first:
+      213: -7375535904905511824
+    second: PlayStation - Gradius Gaiden - Vic Viper_47
+  - first:
+      213: 835914934841009046
+    second: PlayStation - Gradius Gaiden - Vic Viper_48
+  - first:
+      213: 4084686811487708182
+    second: PlayStation - Gradius Gaiden - Vic Viper_49
+  - first:
+      213: 497727790010285374
+    second: PlayStation - Gradius Gaiden - Vic Viper_50
+  - first:
+      213: -3019610322697536951
+    second: PlayStation - Gradius Gaiden - Vic Viper_51
+  - first:
+      213: 6826512532363506096
+    second: PlayStation - Gradius Gaiden - Vic Viper_52
+  - first:
+      213: -4932692914518928444
+    second: PlayStation - Gradius Gaiden - Vic Viper_53
+  - first:
+      213: 815139146150771671
+    second: PlayStation - Gradius Gaiden - Vic Viper_54
+  - first:
+      213: 2895143903676018348
+    second: PlayStation - Gradius Gaiden - Vic Viper_55
+  - first:
+      213: 333138186958916771
+    second: PlayStation - Gradius Gaiden - Vic Viper_56
+  - first:
+      213: -6621408097826779916
+    second: PlayStation - Gradius Gaiden - Vic Viper_57
+  - first:
+      213: -815856573629278960
+    second: PlayStation - Gradius Gaiden - Vic Viper_58
+  - first:
+      213: -5452934000112796470
+    second: PlayStation - Gradius Gaiden - Vic Viper_59
+  - first:
+      213: -4609875646700930711
+    second: PlayStation - Gradius Gaiden - Vic Viper_60
+  - first:
+      213: 7807920202140392511
+    second: PlayStation - Gradius Gaiden - Vic Viper_61
+  - first:
+      213: 4481899824875803315
+    second: PlayStation - Gradius Gaiden - Vic Viper_62
+  - first:
+      213: 1309193988746481062
+    second: PlayStation - Gradius Gaiden - Vic Viper_63
+  - first:
+      213: 3997131923755468513
+    second: PlayStation - Gradius Gaiden - Vic Viper_64
+  - first:
+      213: -8620191553367244024
+    second: PlayStation - Gradius Gaiden - Vic Viper_65
+  - first:
+      213: -8376227794880982174
+    second: PlayStation - Gradius Gaiden - Vic Viper_66
+  - first:
+      213: -1875373912869799349
+    second: PlayStation - Gradius Gaiden - Vic Viper_67
+  - first:
+      213: 5558960413548377754
+    second: PlayStation - Gradius Gaiden - Vic Viper_68
+  - first:
+      213: 5663168749302575008
+    second: PlayStation - Gradius Gaiden - Vic Viper_69
+  - first:
+      213: -1950518634031974373
+    second: PlayStation - Gradius Gaiden - Vic Viper_70
+  - first:
+      213: -6133292278168781006
+    second: PlayStation - Gradius Gaiden - Vic Viper_71
+  - first:
+      213: -734516930512712590
+    second: PlayStation - Gradius Gaiden - Vic Viper_72
+  - first:
+      213: -759822656577979118
+    second: PlayStation - Gradius Gaiden - Vic Viper_73
+  - first:
+      213: 2260683779486352593
+    second: PlayStation - Gradius Gaiden - Vic Viper_74
+  - first:
+      213: 2385597202517174353
+    second: PlayStation - Gradius Gaiden - Vic Viper_75
+  - first:
+      213: -77397703492086106
+    second: PlayStation - Gradius Gaiden - Vic Viper_76
+  - first:
+      213: 7118455162095397060
+    second: PlayStation - Gradius Gaiden - Vic Viper_77
+  - first:
+      213: 2995211542354053095
+    second: PlayStation - Gradius Gaiden - Vic Viper_78
+  - first:
+      213: 1169197720871134718
+    second: PlayStation - Gradius Gaiden - Vic Viper_79
+  - first:
+      213: -348852734917314219
+    second: PlayStation - Gradius Gaiden - Vic Viper_80
+  - first:
+      213: 3797972002873934344
+    second: PlayStation - Gradius Gaiden - Vic Viper_81
+  - first:
+      213: 3569046200582800484
+    second: PlayStation - Gradius Gaiden - Vic Viper_82
+  - first:
+      213: 7257679363033746185
+    second: PlayStation - Gradius Gaiden - Vic Viper_83
+  - first:
+      213: 6045350731744184699
+    second: PlayStation - Gradius Gaiden - Vic Viper_84
+  - first:
+      213: -1772824052371804295
+    second: PlayStation - Gradius Gaiden - Vic Viper_85
+  - first:
+      213: 3941000221168083259
+    second: PlayStation - Gradius Gaiden - Vic Viper_86
+  - first:
+      213: -8387403933699561744
+    second: PlayStation - Gradius Gaiden - Vic Viper_87
+  - first:
+      213: -1741405285985760414
+    second: PlayStation - Gradius Gaiden - Vic Viper_88
+  - first:
+      213: 4341962609160770153
+    second: PlayStation - Gradius Gaiden - Vic Viper_89
+  - first:
+      213: 6015025660106540549
+    second: PlayStation - Gradius Gaiden - Vic Viper_90
+  - first:
+      213: -7114028950822812275
+    second: PlayStation - Gradius Gaiden - Vic Viper_91
+  - first:
+      213: 8293616903036369227
+    second: PlayStation - Gradius Gaiden - Vic Viper_92
+  - first:
+      213: 6033957211038691080
+    second: PlayStation - Gradius Gaiden - Vic Viper_93
+  - first:
+      213: -6768636385133479076
+    second: PlayStation - Gradius Gaiden - Vic Viper_94
+  - first:
+      213: -5163768767019051740
+    second: PlayStation - Gradius Gaiden - Vic Viper_95
+  - first:
+      213: 4631232329861089218
+    second: PlayStation - Gradius Gaiden - Vic Viper_96
+  - first:
+      213: 2490596572530142139
+    second: PlayStation - Gradius Gaiden - Vic Viper_97
+  - first:
+      213: 8294613927841542641
+    second: PlayStation - Gradius Gaiden - Vic Viper_98
+  - first:
+      213: -8435211534717202415
+    second: PlayStation - Gradius Gaiden - Vic Viper_99
+  - first:
+      213: 3057330947763001644
+    second: PlayStation - Gradius Gaiden - Vic Viper_100
+  - first:
+      213: 9102730656411801006
+    second: PlayStation - Gradius Gaiden - Vic Viper_101
+  - first:
+      213: 505836147400609036
+    second: PlayStation - Gradius Gaiden - Vic Viper_102
+  - first:
+      213: 451260461989887133
+    second: PlayStation - Gradius Gaiden - Vic Viper_103
+  - first:
+      213: -5979786053748179723
+    second: PlayStation - Gradius Gaiden - Vic Viper_104
+  - first:
+      213: -848508993778864657
+    second: PlayStation - Gradius Gaiden - Vic Viper_105
+  - first:
+      213: 6454239920318920849
+    second: PlayStation - Gradius Gaiden - Vic Viper_106
+  - first:
+      213: -7840167013247134384
+    second: PlayStation - Gradius Gaiden - Vic Viper_107
+  - first:
+      213: 4714845538822925182
+    second: PlayStation - Gradius Gaiden - Vic Viper_108
+  - first:
+      213: -3892673251881939967
+    second: PlayStation - Gradius Gaiden - Vic Viper_109
+  - first:
+      213: -2433923062733617898
+    second: PlayStation - Gradius Gaiden - Vic Viper_110
+  - first:
+      213: -698744345253665780
+    second: PlayStation - Gradius Gaiden - Vic Viper_111
+  - first:
+      213: -1583801798296438262
+    second: PlayStation - Gradius Gaiden - Vic Viper_112
+  - first:
+      213: 3488845412518090068
+    second: PlayStation - Gradius Gaiden - Vic Viper_113
+  - first:
+      213: 4429277646425028259
+    second: PlayStation - Gradius Gaiden - Vic Viper_114
+  - first:
+      213: -8696801790420226848
+    second: PlayStation - Gradius Gaiden - Vic Viper_115
+  - first:
+      213: 6591092519073763248
+    second: PlayStation - Gradius Gaiden - Vic Viper_116
+  - first:
+      213: 8250906308041196558
+    second: PlayStation - Gradius Gaiden - Vic Viper_117
+  - first:
+      213: -2642669097297072828
+    second: PlayStation - Gradius Gaiden - Vic Viper_118
+  - first:
+      213: -6692347762819113522
+    second: PlayStation - Gradius Gaiden - Vic Viper_119
+  - first:
+      213: 6466619171364865342
+    second: PlayStation - Gradius Gaiden - Vic Viper_120
+  - first:
+      213: -6190227147587618354
+    second: PlayStation - Gradius Gaiden - Vic Viper_121
+  - first:
+      213: 7716809005623309750
+    second: PlayStation - Gradius Gaiden - Vic Viper_122
+  - first:
+      213: -395655682118629085
+    second: PlayStation - Gradius Gaiden - Vic Viper_123
+  - first:
+      213: 3244296247837899251
+    second: PlayStation - Gradius Gaiden - Vic Viper_124
+  - first:
+      213: 724374641375875914
+    second: PlayStation - Gradius Gaiden - Vic Viper_125
+  - first:
+      213: -3179694470754968995
+    second: PlayStation - Gradius Gaiden - Vic Viper_126
+  - first:
+      213: -3468700996448404281
+    second: PlayStation - Gradius Gaiden - Vic Viper_127
+  - first:
+      213: -4516450299286562025
+    second: PlayStation - Gradius Gaiden - Vic Viper_128
+  - first:
+      213: 1317607158127495831
+    second: PlayStation - Gradius Gaiden - Vic Viper_129
+  - first:
+      213: 6215024458461066393
+    second: PlayStation - Gradius Gaiden - Vic Viper_130
+  - first:
+      213: -1463835799923477370
+    second: PlayStation - Gradius Gaiden - Vic Viper_131
+  - first:
+      213: 1465856814010222261
+    second: PlayStation - Gradius Gaiden - Vic Viper_132
+  - first:
+      213: -4517916866461957618
+    second: PlayStation - Gradius Gaiden - Vic Viper_133
+  - first:
+      213: -2784158837467157594
+    second: PlayStation - Gradius Gaiden - Vic Viper_134
+  - first:
+      213: 8029985258206502408
+    second: PlayStation - Gradius Gaiden - Vic Viper_135
+  - first:
+      213: 8440631284699395329
+    second: PlayStation - Gradius Gaiden - Vic Viper_136
+  - first:
+      213: 5950513157795533492
+    second: PlayStation - Gradius Gaiden - Vic Viper_137
+  - first:
+      213: -8132247138831487164
+    second: PlayStation - Gradius Gaiden - Vic Viper_138
+  - first:
+      213: 8511689379309359651
+    second: PlayStation - Gradius Gaiden - Vic Viper_139
+  - first:
+      213: 8551521362694059378
+    second: PlayStation - Gradius Gaiden - Vic Viper_140
+  - first:
+      213: -4586461172420092486
+    second: PlayStation - Gradius Gaiden - Vic Viper_141
+  - first:
+      213: 2822948167239762161
+    second: PlayStation - Gradius Gaiden - Vic Viper_142
+  - first:
+      213: -724713218491685457
+    second: PlayStation - Gradius Gaiden - Vic Viper_143
+  - first:
+      213: 2530633835865612713
+    second: PlayStation - Gradius Gaiden - Vic Viper_144
+  - first:
+      213: -8512814952324981285
+    second: PlayStation - Gradius Gaiden - Vic Viper_145
+  - first:
+      213: -5191245004508141275
+    second: PlayStation - Gradius Gaiden - Vic Viper_146
+  - first:
+      213: -1089393695424473816
+    second: PlayStation - Gradius Gaiden - Vic Viper_147
+  - first:
+      213: 4177147932542795146
+    second: PlayStation - Gradius Gaiden - Vic Viper_148
+  - first:
+      213: -4347397227888648013
+    second: PlayStation - Gradius Gaiden - Vic Viper_149
+  - first:
+      213: 7933432999405691746
+    second: PlayStation - Gradius Gaiden - Vic Viper_150
+  - first:
+      213: 2076708114019923443
+    second: PlayStation - Gradius Gaiden - Vic Viper_151
+  - first:
+      213: 4184918905756154739
+    second: PlayStation - Gradius Gaiden - Vic Viper_152
+  - first:
+      213: 7756337760925547082
+    second: PlayStation - Gradius Gaiden - Vic Viper_153
+  - first:
+      213: -5041977372170373419
+    second: PlayStation - Gradius Gaiden - Vic Viper_154
+  - first:
+      213: 4555783588019695020
+    second: PlayStation - Gradius Gaiden - Vic Viper_155
+  - first:
+      213: 6814496907899849798
+    second: PlayStation - Gradius Gaiden - Vic Viper_156
+  - first:
+      213: -248866012798149030
+    second: PlayStation - Gradius Gaiden - Vic Viper_157
+  - first:
+      213: 3683997966832068179
+    second: PlayStation - Gradius Gaiden - Vic Viper_158
+  - first:
+      213: -5558587069786252433
+    second: PlayStation - Gradius Gaiden - Vic Viper_159
+  - first:
+      213: 8604361504363103490
+    second: PlayStation - Gradius Gaiden - Vic Viper_160
+  - first:
+      213: -2287397950754849193
+    second: PlayStation - Gradius Gaiden - Vic Viper_161
+  - first:
+      213: -7770642247449310183
+    second: PlayStation - Gradius Gaiden - Vic Viper_162
+  - first:
+      213: -5197273844100533467
+    second: PlayStation - Gradius Gaiden - Vic Viper_163
+  - first:
+      213: 6510564107890236976
+    second: PlayStation - Gradius Gaiden - Vic Viper_164
+  - first:
+      213: 2021922561240599208
+    second: PlayStation - Gradius Gaiden - Vic Viper_165
+  - first:
+      213: -2681882977000051858
+    second: PlayStation - Gradius Gaiden - Vic Viper_166
+  - first:
+      213: -8597475888732076816
+    second: PlayStation - Gradius Gaiden - Vic Viper_167
+  - first:
+      213: -5410750407990448845
+    second: PlayStation - Gradius Gaiden - Vic Viper_168
+  - first:
+      213: -9085687546815173858
+    second: PlayStation - Gradius Gaiden - Vic Viper_169
+  - first:
+      213: -8670754600126368193
+    second: PlayStation - Gradius Gaiden - Vic Viper_170
+  - first:
+      213: -895346706773212973
+    second: PlayStation - Gradius Gaiden - Vic Viper_171
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 16
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PlayStation - Gradius Gaiden - Vic Viper_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 409
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a997cf58cdb228c0800000000000000
+      internalID: -4025446448617776731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Gradius Gaiden - Vic Viper_1
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 410
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40d3bab5a92e7f890800000000000000
+      internalID: -7424216308106183420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Gradius Gaiden - Vic Viper_2
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 411
+        width: 23
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8165de13cc5f69b50800000000000000
+      internalID: 6599732561317811736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Gradius Gaiden - Vic Viper_3
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 412
+        width: 23
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05c94ece1af95e2f0800000000000000
+      internalID: -944173029051294640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Gradius Gaiden - Vic Viper_4
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 413
+        width: 23
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f2b6fb04fb4d35f0800000000000000
+      internalID: -775380049293036811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Gradius Gaiden - Vic Viper_5
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 412
+        width: 23
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad60aab018d47fb90800000000000000
+      internalID: -7208207461941377318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Gradius Gaiden - Vic Viper_6
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 410
+        width: 23
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 610dce2e80266e270800000000000000
+      internalID: 8279412755273666582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Gradius Gaiden - Vic Viper_7
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 410
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74453b373bd75d070800000000000000
+      internalID: 8130542911981048903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Gradius Gaiden - Vic Viper_8
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 409
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd594c4afe1fd9030800000000000000
+      internalID: 3503222096727938524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Gradius Gaiden - Vic Viper_9
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 385
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3af95f765133a820800000000000000
+      internalID: 2928238430294506042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Gradius Gaiden - Vic Viper_10
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 384
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be1e19ee80e1856d0800000000000000
+      internalID: -3001616127931325973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Gradius Gaiden - Vic Viper_11
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 380
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 395ca1839acc1a730800000000000000
+      internalID: 4008710170499270035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Gradius Gaiden - Vic Viper_12
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 375
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7930563cd45438ef0800000000000000
+      internalID: -107165765833784425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Gradius Gaiden - Vic Viper_13
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 374
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81470508872a6e8f0800000000000000
+      internalID: -511542869227441128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Gradius Gaiden - Vic Viper_14
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 373
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a16a2e62a1f583120800000000000000
+      internalID: 2393767767873594906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Gradius Gaiden - Vic Viper_15
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 373
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0387321b073ea1460800000000000000
+      internalID: 7213327826335004720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Gradius Gaiden - Vic Viper_16
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 377
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bb67cf325c04dc50800000000000000
+      internalID: 6688984893948914614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Gradius Gaiden - Vic Viper_17
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 382
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c069c03b9ffca8910800000000000000
+      internalID: 1840512069092021772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Gradius Gaiden - Vic Viper_18
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 358
+        width: 25
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d12f321034a7d750800000000000000
+      internalID: 6329708327664034263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Gradius Gaiden - Vic Viper_19
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 358
+        width: 17
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fc87ea19c02bec30800000000000000
+      internalID: 4389638309914578166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Gradius Gaiden - Vic Viper_20
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 358
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 425b10644c32cfdd0800000000000000
+      internalID: -2451044771301313244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Gradius Gaiden - Vic Viper_21
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 357
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1c993214967f60f0800000000000000
+      internalID: -1121547403858961379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Gradius Gaiden - Vic Viper_22
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 357
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bcb346ee40da5e80800000000000000
+      internalID: -8189003935130600263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Gradius Gaiden - Vic Viper_23
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 354
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d542f57f66e65a00800000000000000
+      internalID: 745036154770965974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Gradius Gaiden - Vic Viper_24
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 355
+        width: 50
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d051b4638fa55da0800000000000000
+      internalID: -5956661953262694192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Gradius Gaiden - Vic Viper_25
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 358
+        width: 26
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2067346800d7ffa0800000000000000
+      internalID: -5766912063364964309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Gradius Gaiden - Vic Viper_26
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 358
+        width: 32
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65b9d8af530222810800000000000000
+      internalID: 1738987822327372630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Gradius Gaiden - Vic Viper_27
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 343
+        width: 41
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87db738a3692e7b20800000000000000
+      internalID: 3133987898697170296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Gradius Gaiden - Vic Viper_28
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 358
+        width: 16
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a131be1eb6af30f0800000000000000
+      internalID: -1135005245585149536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Gradius Gaiden - Vic Viper_29
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 358
+        width: 13
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78572bf4d0ccf1550800000000000000
+      internalID: 6133845575045641607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gradius Gaiden - Laser IT
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 342
+        width: 17
+        height: 3
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a0a50c4983301c30800000000000000
+      internalID: 4328015906682020000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Gradius Gaiden - Vic Viper_31
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 340
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d9208ef64833d530800000000000000
+      internalID: 3878505581664807381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Gradius Gaiden - Vic Viper_32
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 339
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46e01dd210707f2c0800000000000000
+      internalID: -4398038809458962844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Gradius Gaiden - Vic Viper_33
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 338
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55336b34562181d30800000000000000
+      internalID: 4402288861891670869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Gradius Gaiden - Vic Viper_34
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 337
+        width: 29
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4234c71effec388b0800000000000000
+      internalID: -5151045950386715868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Gradius Gaiden - Vic Viper_35
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 323
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05eadb3aeb06fa1e0800000000000000
+      internalID: -2184420922344231344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Gradius Gaiden - Vic Viper_36
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 322
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e5aa20c957186cb0800000000000000
+      internalID: -4870617322757642778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Gradius Gaiden - Vic Viper_37
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 321
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3ba88d47f3cc6f20800000000000000
+      internalID: 3417321684192504637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Gradius Gaiden - Vic Viper_38
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 320
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0ffdaa0757340440800000000000000
+      internalID: 4901103141466799885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Gradius Gaiden - Vic Viper_39
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 320
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 021be172199a1bb80800000000000000
+      internalID: -8380730990668107488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Gradius Gaiden - Vic Viper_40
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 322
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df3782c47a9e754b0800000000000000
+      internalID: -5451631919162166275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Gradius Gaiden - Vic Viper_41
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 321
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2e42318038ff0a10800000000000000
+      internalID: 1877992456846462506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Gradius Gaiden - Vic Viper_42
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 321
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a2ff9ceade04a1d0800000000000000
+      internalID: -3340528690166500698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Gradius Gaiden - Vic Viper_43
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 320
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dc2e51c9a87eb3e0800000000000000
+      internalID: -2036057311035904812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Gradius Gaiden - Vic Viper_44
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 320
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d16a7b54fb4edf0a0800000000000000
+      internalID: -6846064348373735907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Gradius Gaiden - Vic Viper_45
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 322
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e5d00807a6744650800000000000000
+      internalID: 6216223845444015586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Gradius Gaiden - Vic Viper_46
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 322
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ecbf1c29f4271dd0800000000000000
+      internalID: -2515501214257398560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Gradius Gaiden - Vic Viper_47
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 324
+        width: 11
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07cb7f7fb25d4a990800000000000000
+      internalID: -7375535904905511824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Gradius Gaiden - Vic Viper_48
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 304
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69364a15434c99b00800000000000000
+      internalID: 835914934841009046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Gradius Gaiden - Vic Viper_49
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 302
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 614a2717309bfa830800000000000000
+      internalID: 4084686811487708182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Gradius Gaiden - Vic Viper_50
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 301
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3d3766b9c848e600800000000000000
+      internalID: 497727790010285374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Gradius Gaiden - Vic Viper_51
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 299
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94ab28bf8603816d0800000000000000
+      internalID: -3019610322697536951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Gradius Gaiden - Vic Viper_52
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 299
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b17742daf4acbe50800000000000000
+      internalID: 6826512532363506096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Gradius Gaiden - Vic Viper_53
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 299
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c35304cded8b8bb0800000000000000
+      internalID: -4932692914518928444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Gradius Gaiden - Vic Viper_54
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 299
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dbf4d01cb4ff4b00800000000000000
+      internalID: 815139146150771671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Gradius Gaiden - Vic Viper_55
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 299
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cae2f309a0e9d2820800000000000000
+      internalID: 2895143903676018348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Gradius Gaiden - Vic Viper_56
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 299
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3accdce7a6b8f9400800000000000000
+      internalID: 333138186958916771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Gradius Gaiden - Vic Viper_57
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 299
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fcc320ba680c14a0800000000000000
+      internalID: -6621408097826779916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Gradius Gaiden - Vic Viper_58
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 299
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 015d825d4ce7da4f0800000000000000
+      internalID: -815856573629278960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Gradius Gaiden - Vic Viper_59
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 299
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acc70a3fa694354b0800000000000000
+      internalID: -5452934000112796470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Gradius Gaiden - Vic Viper_60
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 273
+        width: 56
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 969baa3068e6600c0800000000000000
+      internalID: -4609875646700930711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Gradius Gaiden - Vic Viper_61
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 272
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3c9c234e0e4b5c60800000000000000
+      internalID: 7807920202140392511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Gradius Gaiden - Vic Viper_62
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 273
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b29b940528e23e30800000000000000
+      internalID: 4481899824875803315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Gradius Gaiden - Vic Viper_63
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 269
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ad8f411ff03b2210800000000000000
+      internalID: 1309193988746481062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Gradius Gaiden - Vic Viper_64
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 266
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e681d39e4aa87730800000000000000
+      internalID: 3997131923755468513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Gradius Gaiden - Vic Viper_65
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 266
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80309b5347dee5880800000000000000
+      internalID: -8620191553367244024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Gradius Gaiden - Vic Viper_66
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 261
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2639d502339a1cb80800000000000000
+      internalID: -8376227794880982174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Gradius Gaiden - Vic Viper_67
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 245
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4a7c56cc5559f5e0800000000000000
+      internalID: -1875373912869799349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Gradius Gaiden - Vic Viper_68
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 244
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9672022b05652d40800000000000000
+      internalID: 5558960413548377754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Gradius Gaiden - Vic Viper_69
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 242
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0afe54509fd979e40800000000000000
+      internalID: 5663168749302575008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Gradius Gaiden - Vic Viper_70
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 241
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b187ebaf2ad5ee4e0800000000000000
+      internalID: -1950518634031974373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Gradius Gaiden - Vic Viper_71
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 241
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23f7a182b2b22eaa0800000000000000
+      internalID: -6133292278168781006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Gradius Gaiden - Vic Viper_72
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 246
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27c874b4eb87ec5f0800000000000000
+      internalID: -734516930512712590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Gradius Gaiden - Vic Viper_73
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 244
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21d306ec1519475f0800000000000000
+      internalID: -759822656577979118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Gradius Gaiden - Vic Viper_74
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 241
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d485c97bef8f5f10800000000000000
+      internalID: 2260683779486352593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Gradius Gaiden - Vic Viper_75
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 241
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 158a33924085b1120800000000000000
+      internalID: 2385597202517174353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Gradius Gaiden - Vic Viper_76
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 240
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a65ce0e2370deef0800000000000000
+      internalID: -77397703492086106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Gradius Gaiden - Vic Viper_77
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 245
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c8ed363145d9c260800000000000000
+      internalID: 7118455162095397060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Gradius Gaiden - Vic Viper_78
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 243
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e7c9294701219920800000000000000
+      internalID: 2995211542354053095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Gradius Gaiden - Vic Viper_79
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 240
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef568b8e123d93010800000000000000
+      internalID: 1169197720871134718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Gradius Gaiden - Vic Viper_80
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 240
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55974503940a82bf0800000000000000
+      internalID: -348852734917314219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Gradius Gaiden - Vic Viper_81
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 240
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8020e220a6b15b430800000000000000
+      internalID: 3797972002873934344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Gradius Gaiden - Vic Viper_82
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 215
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46402bc1c9cc78130800000000000000
+      internalID: 3569046200582800484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Gradius Gaiden - Vic Viper_83
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 215
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90b4f478de478b460800000000000000
+      internalID: 7257679363033746185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Gradius Gaiden - Vic Viper_84
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 215
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b79824cf57665e350800000000000000
+      internalID: 6045350731744184699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Gradius Gaiden - Vic Viper_85
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 215
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97f2c1dcae9a567e0800000000000000
+      internalID: -1772824052371804295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Gradius Gaiden - Vic Viper_86
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 215
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b31a57222de31b630800000000000000
+      internalID: 3941000221168083259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Gradius Gaiden - Vic Viper_87
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 215
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f6af188f84f99b80800000000000000
+      internalID: -8387403933699561744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Gradius Gaiden - Vic Viper_88
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 215
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26bc4d66e1945d7e0800000000000000
+      internalID: -1741405285985760414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Gradius Gaiden - Vic Viper_89
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 215
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9625e030dffb14c30800000000000000
+      internalID: 4341962609160770153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Gradius Gaiden - Vic Viper_90
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 216
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 506828908f9a97350800000000000000
+      internalID: 6015025660106540549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Gradius Gaiden - Vic Viper_91
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 216
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d858c586c54e54d90800000000000000
+      internalID: -7114028950822812275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Gradius Gaiden - Vic Viper_92
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 216
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4978a0c1a8d81370800000000000000
+      internalID: 8293616903036369227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Gradius Gaiden - Vic Viper_93
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 216
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80f2ed93d1cecb350800000000000000
+      internalID: 6033957211038691080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Gradius Gaiden - Vic Viper_94
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 216
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5bb55ac119f012a0800000000000000
+      internalID: -6768636385133479076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Gradius Gaiden - Vic Viper_95
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 216
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 425929b4aab9658b0800000000000000
+      internalID: -5163768767019051740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Gradius Gaiden - Vic Viper_96
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 197
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c7cca54441754040800000000000000
+      internalID: 4631232329861089218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Gradius Gaiden - Vic Viper_97
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 197
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbbe6701360609220800000000000000
+      internalID: 2490596572530142139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Gradius Gaiden - Vic Viper_98
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 197
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f1b00eab636c1370800000000000000
+      internalID: 8294613927841542641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Gradius Gaiden - Vic Viper_99
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 197
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11057e30dcb10fa80800000000000000
+      internalID: -8435211534717202415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Gradius Gaiden - Vic Viper_100
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 197
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c29d83e6c42dd6a20800000000000000
+      internalID: 3057330947763001644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Gradius Gaiden - Vic Viper_101
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 197
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea5db7dbd45635e70800000000000000
+      internalID: 9102730656411801006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Gradius Gaiden - Vic Viper_102
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 197
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0d8d58cb47150700800000000000000
+      internalID: 505836147400609036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Gradius Gaiden - Vic Viper_103
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 197
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9cf512dff2334600800000000000000
+      internalID: 451260461989887133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Gradius Gaiden - Vic Viper_104
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 197
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fc31813448830da0800000000000000
+      internalID: -5979786053748179723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Gradius Gaiden - Vic Viper_105
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 197
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fed2615d09d7934f0800000000000000
+      internalID: -848508993778864657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Gradius Gaiden - Vic Viper_106
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 198
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19831c1f201129950800000000000000
+      internalID: 6454239920318920849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Gradius Gaiden - Vic Viper_107
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 198
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0555ba3f3a1223390800000000000000
+      internalID: -7840167013247134384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Gradius Gaiden - Vic Viper_108
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 198
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7b2068890f7e6140800000000000000
+      internalID: 4714845538822925182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Gradius Gaiden - Vic Viper_109
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 198
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10c89ea3d427af9c0800000000000000
+      internalID: -3892673251881939967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Gradius Gaiden - Vic Viper_110
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 198
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 615c123bed7f83ed0800000000000000
+      internalID: -2433923062733617898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Gradius Gaiden - Vic Viper_111
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 181
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c04a75858bf8d46f0800000000000000
+      internalID: -698744345253665780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Gradius Gaiden - Vic Viper_112
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 181
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0a7ae1e7a4350ae0800000000000000
+      internalID: -1583801798296438262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Gradius Gaiden - Vic Viper_113
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 181
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45554610b6eda6030800000000000000
+      internalID: 3488845412518090068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Gradius Gaiden - Vic Viper_114
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 182
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a6fdb65d84f77d30800000000000000
+      internalID: 4429277646425028259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Gradius Gaiden - Vic Viper_115
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 182
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ec650869d0ce4780800000000000000
+      internalID: -8696801790420226848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Gradius Gaiden - Vic Viper_116
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 182
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bf402999b3487b50800000000000000
+      internalID: 6591092519073763248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Gradius Gaiden - Vic Viper_117
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 182
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0443dd629b118270800000000000000
+      internalID: 8250906308041196558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Gradius Gaiden - Vic Viper_118
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 182
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44da4bc157a535bd0800000000000000
+      internalID: -2642669097297072828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Gradius Gaiden - Vic Viper_119
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 182
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecd59c3da210023a0800000000000000
+      internalID: -6692347762819113522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Gradius Gaiden - Vic Viper_120
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 182
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e350feeefdb0eb950800000000000000
+      internalID: 6466619171364865342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Gradius Gaiden - Vic Viper_121
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 182
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec97f0dd435e71aa0800000000000000
+      internalID: -6190227147587618354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Gradius Gaiden - Vic Viper_122
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 182
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b576bbb7ec971b60800000000000000
+      internalID: 7716809005623309750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Gradius Gaiden - Vic Viper_123
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 182
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32944fdd049528af0800000000000000
+      internalID: -395655682118629085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Gradius Gaiden - Vic Viper_124
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 182
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f9b2869f3e060d20800000000000000
+      internalID: 3244296247837899251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Gradius Gaiden - Vic Viper_125
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 182
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a43928ff5ee7d0a00800000000000000
+      internalID: 724374641375875914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Gradius Gaiden - Vic Viper_126
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 182
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5a5060c9b47fd3d0800000000000000
+      internalID: -3179694470754968995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Gradius Gaiden - Vic Viper_127
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 182
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cc36aa52d2bcdfc0800000000000000
+      internalID: -3468700996448404281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Gradius Gaiden - Vic Viper_128
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 182
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71b5159c1685251c0800000000000000
+      internalID: -4516450299286562025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Gradius Gaiden - Vic Viper_129
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 168
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79a83b5bab4194210800000000000000
+      internalID: 1317607158127495831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Gradius Gaiden - Vic Viper_130
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 169
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 994bfecf0d3304650800000000000000
+      internalID: 6215024458461066393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Gradius Gaiden - Vic Viper_131
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 169
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 684bf0088196fabe0800000000000000
+      internalID: -1463835799923477370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Gradius Gaiden - Vic Viper_132
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 169
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b64aa28105c75410800000000000000
+      internalID: 1465856814010222261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Gradius Gaiden - Vic Viper_133
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 169
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e020ac10c822d41c0800000000000000
+      internalID: -4517916866461957618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Gradius Gaiden - Vic Viper_134
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 169
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ab6186d94eac59d0800000000000000
+      internalID: -2784158837467157594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Gradius Gaiden - Vic Viper_135
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 169
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80e95033c0d307f60800000000000000
+      internalID: 8029985258206502408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Gradius Gaiden - Vic Viper_136
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 169
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1057e8cde65232570800000000000000
+      internalID: 8440631284699395329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Gradius Gaiden - Vic Viper_137
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 169
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b2d0b99038749250800000000000000
+      internalID: 5950513157795533492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Gradius Gaiden - Vic Viper_138
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 170
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44f23405054742f80800000000000000
+      internalID: -8132247138831487164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Gradius Gaiden - Vic Viper_139
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 170
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3221334c4689f1670800000000000000
+      internalID: 8511689379309359651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Gradius Gaiden - Vic Viper_140
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 170
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2753b881f5b1da670800000000000000
+      internalID: 8551521362694059378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Gradius Gaiden - Vic Viper_141
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 170
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abd57c12ddd9950c0800000000000000
+      internalID: -4586461172420092486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Gradius Gaiden - Vic Viper_142
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 170
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f08aa7c6602d2720800000000000000
+      internalID: 2822948167239762161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Gradius Gaiden - Vic Viper_143
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 170
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa5e5cfda2d41f5f0800000000000000
+      internalID: -724713218491685457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Gradius Gaiden - Vic Viper_144
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 170
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a1aa5bd01e9e1320800000000000000
+      internalID: 2530633835865612713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Gradius Gaiden - Vic Viper_145
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 170
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdd190857e76cd980800000000000000
+      internalID: -8512814952324981285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Gradius Gaiden - Vic Viper_146
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 145
+        width: 36
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 529654c3c2ef4f7b0800000000000000
+      internalID: -5191245004508141275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Gradius Gaiden - Vic Viper_147
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 144
+        width: 38
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8259ca3b432b1e0f0800000000000000
+      internalID: -1089393695424473816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Gradius Gaiden - Vic Viper_148
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 145
+        width: 40
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8d7875c9e538f930800000000000000
+      internalID: 4177147932542795146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Gradius Gaiden - Vic Viper_149
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 145
+        width: 43
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b0ed263141faa3c0800000000000000
+      internalID: -4347397227888648013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Gradius Gaiden - Vic Viper_150
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 144
+        width: 45
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26320f2a747391e60800000000000000
+      internalID: 7933432999405691746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Gradius Gaiden - Vic Viper_151
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 118
+        width: 49
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f5345ed603f1dc10800000000000000
+      internalID: 2076708114019923443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Gradius Gaiden - Vic Viper_152
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 118
+        width: 41
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37b79677291d31a30800000000000000
+      internalID: 4184918905756154739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Gradius Gaiden - Vic Viper_153
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 117
+        width: 44
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4a7ae5491c04ab60800000000000000
+      internalID: 7756337760925547082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Gradius Gaiden - Vic Viper_154
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 117
+        width: 45
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d63a362b4c470ab0800000000000000
+      internalID: -5041977372170373419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Gradius Gaiden - Vic Viper_155
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 116
+        width: 50
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cade7752905693f30800000000000000
+      internalID: 4555783588019695020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Gradius Gaiden - Vic Viper_156
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 88
+        width: 51
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64c4e5e35d4f19e50800000000000000
+      internalID: 6814496907899849798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Gradius Gaiden - Vic Viper_157
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 88
+        width: 55
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5e9f7e0ea9db8cf0800000000000000
+      internalID: -248866012798149030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Gradius Gaiden - Vic Viper_158
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 86
+        width: 44
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3566946d1a0302330800000000000000
+      internalID: 3683997966832068179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Gradius Gaiden - Vic Viper_159
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 86
+        width: 41
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6b9f4cb28eebd2b0800000000000000
+      internalID: -5558587069786252433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Gradius Gaiden - Vic Viper_160
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 87
+        width: 32
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 205cb9a4335d86770800000000000000
+      internalID: 8604361504363103490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Gradius Gaiden - Vic Viper_161
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 62
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75efc45dea78140e0800000000000000
+      internalID: -2287397950754849193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Gradius Gaiden - Vic Viper_162
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 64
+        width: 5
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91c042ceb02292490800000000000000
+      internalID: -7770642247449310183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Gradius Gaiden - Vic Viper_163
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 24
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52375f1a9f29fd7b0800000000000000
+      internalID: -5197273844100533467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Gradius Gaiden - Vic Viper_164
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 61
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03e943acf8b2a5a50800000000000000
+      internalID: 6510564107890236976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Gradius Gaiden - Vic Viper_165
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 61
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aa081a5bdf4f0c10800000000000000
+      internalID: 2021922561240599208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Gradius Gaiden - Vic Viper_166
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 61
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6baeb244a908cad0800000000000000
+      internalID: -2681882977000051858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Gradius Gaiden - Vic Viper_167
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 61
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f483270b31afa880800000000000000
+      internalID: -8597475888732076816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Gradius Gaiden - Vic Viper_168
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 61
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33ded6bdb2729e4b0800000000000000
+      internalID: -5410750407990448845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Gradius Gaiden - Vic Viper_169
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 61
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1b24ef605729e180800000000000000
+      internalID: -9085687546815173858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Gradius Gaiden - Vic Viper_170
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 61
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3632ec71aa4ba780800000000000000
+      internalID: -8670754600126368193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Gradius Gaiden - Vic Viper_171
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 22
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d087f7f9e61393f0800000000000000
+      internalID: -895346706773212973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 3e0ea0894b37561468d2f332c464ae32
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
